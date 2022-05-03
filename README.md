@@ -1,3 +1,5 @@
+# Parallel Sorting with Thread Pools
+
 <p>In this exercise you should parallelize the Mergesort sorting algorithm learned from the lecture.
 For that, a <a rel="noopener noreferrer" href="https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/util/concurrent/ForkJoinPool.html">ForkJoinPool</a> from the standard library can be used.</p>
 <h4 id="benchmark">Benchmark</h4>
